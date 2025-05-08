@@ -1,6 +1,9 @@
 first clone the git repo
 ```git clone https://github.com/adhi-thirumala/oxi-db.git```
 
+change directory to the project
+```cd oxi-db```
+
 next build the project (make sure that cargo and the rest of the rust toolchain is installed)
 ```cargo b```
 
