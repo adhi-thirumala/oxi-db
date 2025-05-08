@@ -1,5 +1,3 @@
-#![cfg(feature = "cli")]
-
 use oxi_db::{Column, ColumnType, Database, Key, Value};
 use std::fs;
 use std::path::Path;
